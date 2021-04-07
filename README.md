@@ -28,12 +28,7 @@ root@ismailtasdelen:~# bash ./anti-ddos.sh
 
 ### Cloning an Existing Repository ( Clone with HTTPS )
 ```
-root@ismailtasdelen:~# git clone https://github.com/ismailtasdelen/Anti-DDOS.git
-```
-
-### Cloning an Existing Repository ( Clone with SSH )
-```
-root@ismailtasdelen:~# git clone git@github.com:ismailtasdelen/Anti-DDOS.git
+root@ismailtasdelen:~# git clone https://github.com/AKKUSANTUY/ANTI-DDOS.git
 ```
 
 ### About DOS and DDOS :
@@ -58,10 +53,12 @@ root@ismailtasdelen:~# git clone git@github.com:ismailtasdelen/Anti-DDOS.git
 
 ### Contact :
 
-##### Mail : ismailtasdelen@protonmail.com
+##### Gmail : rayarzlost@gmail.com
 
-##### Linkedin : https://www.linkedin.com/in/ismailtasdelen
+##### Facebook : https://www.facebook.com/JANGAN.LUPA.ISTIGHFAR.CUK.WA.082134566596
 
-##### GitHub : https://github.com/ismailtasdelen
+##### GitHub : https://github.com/AKKUSANTUY
 
-##### Telegram : https://t.me/ismailtasdelen
+##### Instagram : https://www.instagram.com/akku_santuy
+
+##### WhatsApp : 082134566596
